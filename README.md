@@ -37,8 +37,8 @@ Column Name	Description
 * Beautiful bar chart using `plt.bar(...)` with `skyblue` color.
 
  ->Requirements
-pandas
-matplotlib
-jupyter
+*pandas
+*matplotlib
+*jupyter
 
 
