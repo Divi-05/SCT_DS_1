@@ -12,8 +12,7 @@ Column Name	Description
   *Special Notes	Notes about data collection or country-specific context
   *Table Name	Country name as shown in data tables
   *Short Name	Common name (e.g., India, China).
-  
--Metadata_Indicator_API_SP.POP.TOTL_DS2_en_csv_v2_38144.csv - This file contains metadata for the indicator itself — in this case, "SP.POP.TOTL", which stands for Total Population (as defined by the World Bank).
+- Metadata_Indicator_API_SP.POP.TOTL_DS2_en_csv_v2_38144.csv - This file contains metadata for the indicator itself — in this case, "SP.POP.TOTL", which stands for Total Population (as defined by the World Bank).
   *Code: SP.POP.TOTL
   *Name: Total Population
   *What: Mid-year total residents
@@ -24,7 +23,7 @@ Column Name	Description
 1. Launch Jupyter
    jupyter notebook
 2. Open `countries.ipynb` in your browser.
-3.run each cell by shift+enter.
+3. run each cell by shift+enter.
 
 -> What the Notebook Does
 1. Reads the CSV file (skipping metadata rows).
