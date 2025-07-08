@@ -3,7 +3,7 @@
 This Jupyter Notebook uses World Bank data and Python (pandas + Matplotlib) to visualize the twenty most populous countries in 2024.
 
 ->Data set
-- API_SP.POP.TOTL_DS2_en_csv_v2_38144.csv — raw World Bank dataset
+- API_SP.POP.TOTL_DS2_en_csv_v2_38144.csv — raw World Bank dataset.
 - Metadata_Country_API_SP.POP.TOTL_DS2_en_csv_v2_38144.csv - This metadata CSV file provides descriptions and classifications for the countries or regions included in the main population dataset, such as:
 Column Name	Description
   *Country Code	ISO 3-letter code (e.g., IND, USA, CHN)
@@ -11,13 +11,14 @@ Column Name	Description
   *Income Group	Country’s income level (e.g., Low income, Upper middle income)
   *Special Notes	Notes about data collection or country-specific context
   *Table Name	Country name as shown in data tables
-  *Short Name	Common name (e.g., India, China)
+  *Short Name	Common name (e.g., India, China).
+  
 -Metadata_Indicator_API_SP.POP.TOTL_DS2_en_csv_v2_38144.csv - This file contains metadata for the indicator itself — in this case, "SP.POP.TOTL", which stands for Total Population (as defined by the World Bank).
   *Code: SP.POP.TOTL
   *Name: Total Population
   *What: Mid-year total residents
   *Source: UN/World Bank
-  *Use: For planning and analysis
+  *Use: For planning and analysis.
 
  -> How to Get Started
 1. Launch Jupyter
